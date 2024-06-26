@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ecomm_LiveApp/static/css/main.38439839.css",
+    "main.js": "/Ecomm_LiveApp/static/js/main.cccf709d.js",
+    "static/js/453.0b71bf06.chunk.js": "/Ecomm_LiveApp/static/js/453.0b71bf06.chunk.js",
+    "static/media/logo.svg": "/Ecomm_LiveApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Ecomm_LiveApp/index.html",
+    "main.38439839.css.map": "/Ecomm_LiveApp/static/css/main.38439839.css.map",
+    "main.cccf709d.js.map": "/Ecomm_LiveApp/static/js/main.cccf709d.js.map",
+    "453.0b71bf06.chunk.js.map": "/Ecomm_LiveApp/static/js/453.0b71bf06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38439839.css",
+    "static/js/main.cccf709d.js"
+  ]
+}
